@@ -1,0 +1,62 @@
+{
+    "mon" : {
+        "0900" : {
+            "subject" : "reinforcement",
+            "num" : "99587491761",
+            "pw" : "Tk9CTzIzbUM0eW13RVhDcVdwNFhsdz09" 
+        },
+        "1300" : {
+            "subject" : "computervision",
+            "num" : "99090218910",
+            "pw" : "QUZ0akhvSDREOVJyQzRVSE4wdTNidz09" 
+        },
+        "1500" : {
+            "subject" : "literature and film",
+            "num" : "97095685271",
+            "pw" : "YWw4ZkQzcytScWVQL2VMbldWNHJlZz09" 
+        }
+    },
+    "tue" : {
+        "1500" : {
+            "subject" : "computer architecture",
+            "num" : "97095685271",
+            "pw" : "YWw4ZkQzcytScWVQL2VMbldWNHJlZz09" 
+        },
+        "1630" : {
+            "subject" : "datastructure",
+            "num" : "99587491761",
+            "pw" : "Tk9CTzIzbUM0eW13RVhDcVdwNFhsdz09" 
+        }
+    },
+    "wed" : {
+        "0900" : {
+            "subject" : "reinforcement",
+            "num" : "99587491761",
+            "pw" : "Tk9CTzIzbUM0eW13RVhDcVdwNFhsdz09" 
+        },
+        "1300" : {
+            "subject" : "computervision",
+            "num" : "99090218910",
+            "pw" : "QUZ0akhvSDREOVJyQzRVSE4wdTNidz09" 
+        },
+        "1500" : {
+            "subject" : "literature and film",
+            "num" : "97095685271",
+            "pw" : "YWw4ZkQzcytScWVQL2VMbldWNHJlZz09" 
+        }
+    },
+    "thu" : {
+        "1500" : {
+            "subject" : "computer architecture",
+            "num" : "97095685271",
+            "pw" : "YWw4ZkQzcytScWVQL2VMbldWNHJlZz09" 
+        },
+        "1630" : {
+            "subject" : "datastructure",
+            "num" : "99587491761",
+            "pw" : "Tk9CTzIzbUM0eW13RVhDcVdwNFhsdz09" 
+        }
+    }
+
+}
+
